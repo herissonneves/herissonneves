@@ -72,7 +72,7 @@
 ## 📫 Contact
 
 - **GitHub:** https://github.com/herissonnobre  
-- (Add LinkedIn or portfolio here if you want)
+- **Email:** herisson.carvalho96@gmail.com
 
 ---
 
