@@ -53,8 +53,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=herissonnobre&show_icons=true&theme=transparent" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herissonnobre&layout=compact&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=herissonneves&show_icons=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herissonneves&layout=compact&theme=transparent" height="165" />
 </p>
 
 ---
