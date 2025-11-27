@@ -1,23 +1,24 @@
 <!-- <p align="center">
-  <img src="/mnt/data/A_banner_for_Herisson_Nobre_displays_a_digital_gra.png" alt="Herisson Nobre Banner" />
+  <img src="/mnt/data/A_banner_for_Herisson_Neves_displays_a_digital_gra.png" alt="Herisson Neves Banner" />
  </p>-->
 
-<h1 align="center">Hi, I'm Herisson Nobre 👋</h1>
+<h1 align="center">Hi, I'm Herisson Neves 👋</h1>
 
 <p align="center">
-  <strong>Back-End Engineer • Military Police Officer • IT Student</strong>
+  <strong>IT Student • Military Police Officer</strong>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 👮‍♂️ Military Police Officer & Back-End Engineer  
+- 👮‍♂️ Military Police Officer  
 - 🎓 Law graduate, currently studying IT  
-- 🧱 Working with Python (Flask), Node.js, NestJS, Next.js, and C# (WinUI)  
+- 🧱 Working with Node.js, NestJS, Next.js, Python (Flask), and C# (WinUI)  
 - 🔧 Passionate about clean architecture, scalable systems, and clear documentation  
-- ⚙️ Building a personal financial system & a task management app  
-- 🏋️‍♂️ Train 5–6 days a week — running, swimming, rowing  
+- ⚙️ Building a personal financial system
+- ✈️ Improving a todo web app (vanilla JavaScript) 
+- 🏋️‍♂️ Running, swimming, rowing  
 
 ---
 
@@ -61,11 +62,8 @@
 ## 📚 Currently Learning
 
 - API Architecture & Security  
-- Advanced PostgreSQL  
-- WinUI Desktop Development  
-- Art History  
-- Ayrton Senna  
-- São Paulo FC  
+- Advanced PostgreSQL   
+- JavaScript
 
 ---
 
@@ -75,12 +73,3 @@
 - **Email:** herisson.carvalho96@gmail.com
 
 ---
-
-## 🧠 Fun Facts
-
-- I use standardized commit messages (feat/fix/refactor) — always in English  
-- snake_case in the database + camelCase in the code  
-- Love clean, minimalistic, cozy, technological environments  
-
----
-
