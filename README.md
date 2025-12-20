@@ -69,7 +69,7 @@
 
 ## 📫 Contact
 
-- **GitHub:** https://github.com/herissonnobre  
+- **GitHub:** https://github.com/herissonneves  
 - **Email:** herisson.carvalho96@gmail.com
 
 ---
