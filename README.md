@@ -2,29 +2,27 @@
   <img src="/mnt/data/A_banner_for_Herisson_Neves_displays_a_digital_gra.png" alt="Herisson Neves Banner" />
  </p>-->
 
-<h1 align="center">Hi, I'm Herisson Neves 👋</h1>
+<h1 align="center">Olá, eu sou o Herisson Neves 👋</h1>
 
 <p align="center">
-  <strong>IT Student • Military Police Officer</strong>
+  <strong>Estudante de TI</strong>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
-- 👮‍♂️ Military Police Officer  
-- 🎓 Law graduate, currently studying IT  
-- 🧱 Working with Node.js, NestJS, Next.js, Python (Flask), and C# (WinUI)  
-- 🔧 Passionate about clean architecture, scalable systems, and clear documentation  
-- ⚙️ Building a personal financial system
-- ✈️ Improving a todo web app (vanilla JavaScript) 
-- 🏋️‍♂️ Running, swimming, rowing  
+- 🎓 Bacharel em Direito, atualmente estudando Tecnologia da Informação  
+- 🧱 Trabalhando com Node.js, NestJS, Next.js, Python (Flask) e C# (WinUI)  
+- 🔧 Apaixonado por arquitetura limpa, sistemas escaláveis e documentação clara  
+- ⚙️ Construindo um sistema financeiro pessoal  
+- 🏋️‍♂️ Corrida, natação e musculação! NPNG!  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológica
 
-### **Languages & Frameworks**
+### **Linguagens & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -34,13 +32,13 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-### **Databases**
+### **Bancos de Dados**
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### **Tools**
+### **Ferramentas**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
@@ -50,7 +48,30 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Projetos Públicos
+
+Atualmente, mantenho os seguintes projetos públicos no GitHub:
+
+- 🔹 **Axio**  
+  https://github.com/herissonneves/axio  
+  Projeto voltado à experimentação, organização de código e boas práticas de arquitetura.
+
+- 🔹 **Quantio**  
+  https://github.com/herissonneves/quantio  
+  Projeto focado em lógica, estruturação de dados e evolução contínua.
+
+---
+
+## 🌐 Portfólio
+
+- **Portfólio público:**  
+  https://herissonneves.github.io/portilla/
+
+🛠️ O portfólio está em **constante construção e aprimoramento**, servindo como espaço para experimentação, apresentação de projetos e evolução técnica contínua.
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=herissonneves&show_icons=true&theme=transparent" height="165" />
@@ -59,15 +80,15 @@
 
 ---
 
-## 📚 Currently Learning
+## 📚 Atualmente Estudando
 
-- API Architecture & Security  
-- Advanced PostgreSQL   
-- JavaScript
+- Arquitetura e Segurança de APIs  
+- PostgreSQL Avançado  
+- JavaScript  
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
 - **GitHub:** https://github.com/herissonneves  
 - **Email:** herisson.carvalho96@gmail.com
