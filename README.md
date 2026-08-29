@@ -5,7 +5,7 @@
 <h1 align="center">Olá, eu sou o Herisson Neves 👋</h1>
 
 <p align="center">
-  <strong>Estudante de Tecnologia da Informação</strong>
+  <strong>Estudante de Engenharia de Computação</strong>
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 
 ## 🚀 Sobre Mim
 
-- 🎓 Bacharel em Direito, atualmente estudando Tecnologia da Informação
-- 🧱 Trabalhando com Node.js, NestJS, Next.js, Python Flask e C# WinUI
+- 🎓 Bacharel em Direito, atualmente estudando Engenharia de Computação/UnB
+- 🧱 Trabalhando com Node.js, NestJS, Next.js
 - 🔧 Interessado em arquitetura limpa, sistemas escaláveis e documentação clara
 - ⚙️ Construindo projetos voltados à organização, produtividade e gestão financeira
 - 🏋️‍♂️ Corrida, natação e musculação! NPNG!
@@ -98,7 +98,7 @@ O portfólio está em constante construção e aprimoramento, servindo como espa
 
 - Arquitetura e Segurança de APIs
 - PostgreSQL Avançado
-- JavaScript
+- JavaScript/TypeScript
 - Boas práticas com Node.js, NestJS e Next.js
 
 ---
